@@ -1,0 +1,255 @@
+@media only screen and (min-width: 992px) {
+.accordion {
+  display: none;
+}
+
+}
+
+
+
+
+@media only screen and  (min-width: 767.98px) and (max-width: 1199px){
+nav ul li a{
+  font-size: 16px;
+  margin-right: 29px;
+}
+.about h6 {
+    margin-left: 1%;
+}
+.clinic h4 {
+    padding-top: 34%;}
+
+.clinic-widget-area {
+    margin-left: 10%;
+  }
+.blog p{
+  width: 90%;
+  font-size: 19px;
+}
+
+.blog_btn{
+  width: 32%;
+  margin-top: 6%;
+  padding: 8px;
+  font-size: 17px;
+}
+.bg {
+    width: 503px;
+    height: 100%;
+    margin-top: 1%;
+    margin-left: -6%;
+}
+.info h1 {
+    margin-left: 34%;
+    margin-top: -29%;
+}
+.info h4 {
+    color: #000;
+    margin-left: 56%;
+    margin-top: -9%;
+}
+.heading{
+  margin-left: 17%;
+}
+.contact-right img{
+  margin-left: 5%;
+}
+.contact img{
+  margin-left: 17%;
+}
+.contact .form {
+    padding-top: 3px;
+}
+.contact .head-left{
+  margin-top: 17%;
+}
+.widget-logo img {
+  margin-left: 17%;
+}
+.footer-social-info {
+  margin-left: 20%;
+  }
+.copywrite-text p{
+  font-size: 18px;
+}
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px){
+   
+.logo,.logo a,.logo a img {
+  width: 72%;
+}
+  nav ul li{
+    display: none;
+  }
+  /*banner*/
+.banner h2{
+    margin-top: -30%;
+}
+.banner p{
+  font-size: 21px;
+}
+.btn{
+	 font-size: 18px;
+   margin-right: 11%;
+   margin-top: 8%;
+}
+  /*banner*/
+  /*about*/
+.about{
+	margin-top: 20px;
+}
+.clinic h4 {
+  padding-top: 85%;
+  font-size: 24px;
+}
+.clinic p{
+  font-size: 20px;
+  margin-bottom: -2%;
+}
+.clinic h6{
+	font-size: 16px;
+	margin-top: 1%;
+}
+ i:last-child{ 
+ 	margin-left: -4%;
+ 	margin-right: 2%;
+    }
+     /*about*/
+    /*blog*/
+.blog h3{
+	margin-top: -29%;
+}
+.blog p{
+	font-size: 19px;
+}
+.blog_btn{
+  width: 35%;
+  margin-top: 2%;
+  padding:5px;
+  font-size: 18px;
+  margin-bottom: 6%;
+   }
+
+.blog-right img {
+    margin-left: 9%;
+  }
+.bg{
+  width: 100%;
+  height: 100%;
+  margin-top: 3%;
+  margin-left: 2%;
+}
+.info {
+  margin-top: 1px;
+  margin-bottom: -22%;
+}
+ /*blog*/
+  /*team*/
+.team{
+  margin-top: 10%;
+}
+.team h2{
+  margin-left: -40%;
+}
+.team h5{
+  margin-left: -13%;
+  margin-right: 25%;
+  font-size: 20px;
+}
+ .team h6{
+	margin-left: 30%;
+}
+.team p{
+	font-size: 20px;
+}
+.heading img {
+  margin-left: -41%;}
+.advance_cource{
+	width: 100%;
+}
+ /*team*/
+/*testimonial*/
+.testimonial_padding_100 {
+  margin-top: 180%;
+}
+.slick-slide img{
+  margin-left: 37%;
+  margin-bottom: -7%;
+  margin-top: 13%;
+}
+.testimonial-info p{
+  font-size: 20px;
+  padding: 16%; 
+}
+.testimonial-info h6 {
+  margin-top: -7%;
+  margin-left: 19%;
+}
+/*testimonial*/
+/*contact*/
+.contact{
+  margin-top: 0%;
+  margin-bottom: -14%;
+}
+.contact .head-left{
+  margin-top: 8%;
+  margin-left: -1%;
+}
+.contact img {
+    margin-left: 10%;
+    width: 80%;
+}
+.contact .form{
+  padding-top: 10px;
+}
+.contact h5{
+  font-size: 18px;
+}
+.contact .form input, .contact .form textarea {
+  color: #000;
+}
+.contact-right img{
+  margin-top: 560px;
+}
+/*contact*/
+/*footer*/
+.footer-widget-area{
+  margin-left: 8%;
+  margin-top: -14%;
+}
+.widget-logo{
+  margin-left: -12%;
+}
+.widget-logo img{
+  margin-bottom: 5%;
+   width: 42%;
+}
+.widget-title h6{
+  margin-top: 22%;
+}
+.widget-contact-info p{
+  margin-left: 4%;
+}
+.widget-contact-info img{
+  margin-left: 0;
+}
+.footer-social-info{
+  margin-left: 12%;
+  margin-top: -4%;
+  margin-bottom: 4%;
+}
+.solution img{
+  margin-left: 4%;
+}
+/*footer*/
+/*footer bottom*/
+.bottom-footer-area{
+  height: 60px;
+}
+.copywrite-text p{
+  margin-top: 5%;
+  font-size: 16px;
+}
+}
